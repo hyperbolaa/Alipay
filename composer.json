@@ -1,0 +1,25 @@
+{
+    "name": "hyperbolaa/alipay",
+    "description": "支付宝SDK在Laravel5封装包。",
+    "keywords": ["L5", "Laravel", "Laravel5.2", "Alipay", "Alipay SDK"],
+    "homepage": "https://github.com/hyperbolaa/AliPay",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chong yu",
+            "email": "chongyu366@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "5.*",
+        "illuminate/events": "5.*",
+        "illuminate/config": "5.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hyperbolaa\\Alipay\\": "src/Hyperbolaa/Alipay/"
+        }
+    },
+    "minimum-stability": "stable"
+}
