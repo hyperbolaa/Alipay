@@ -28,9 +28,9 @@ class AlipayServiceProvider extends ServiceProvider
 		$source_web = realpath(__DIR__ . '/../../config/web.php');
 		if ($this->app instanceof LaravelApplication && $this->app->runningInConsole()) {
 			$this->publishes([
-				$source_config => config_path('alipay.php'),
-				$source_mobile => config_path('alipay-mobile.php'),
-				$source_web => config_path('alipay-web.php'),
+				$source_config  => config_path('alipay.php'),
+				$source_mobile  => config_path('alipay-mobile.php'),
+				$source_web     => config_path('alipay-web.php'),
 			]);
 		} elseif ($this->app instanceof LumenApplication) {
 			$this->app->configure('alipay');
