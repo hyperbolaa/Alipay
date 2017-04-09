@@ -24,7 +24,7 @@ composer require hyperbolaa/alipay dev-master
 ```php
     'providers' => [
         // ...
-        'Hyperbolaa\Alipay\AlipayServiceProvider',
+        Hyperbolaa\Alipay\AlipayServiceProvider::class,
     ]
 ```
 
