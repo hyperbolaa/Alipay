@@ -194,4 +194,4 @@ $app->register(Hyperbolaa\Alipay\AlipayServiceProvider::class);
  
  - [Ylpay](https://github.com/hyperbolaa/Ylpay)   基于laravel5的POS通支付
  - [Unionpay](https://github.com/hyperbolaa/Unionpay)  基于laravel5的银联支付
- - [Alisms](https://github.com/hyperbolaa/Alipay)  基于laravel5的阿里云短信
+ - [Alisms](https://github.com/hyperbolaa/Alisms)  基于laravel5的阿里云短信
