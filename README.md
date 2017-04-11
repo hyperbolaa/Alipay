@@ -180,7 +180,7 @@ $app->register(Hyperbolaa\Alipay\AlipayServiceProvider::class);
 
 如果有什么问题，可通过以下方式联系我。提供有偿技术服务。
 
-也希望更多朋友可用提供代码支持。欢迎交流与大赏。
+也希望更多朋友可用提供代码支持。欢迎交流与打赏。
 
 **邮箱**：yuchong321@126.com
 
@@ -194,4 +194,5 @@ $app->register(Hyperbolaa\Alipay\AlipayServiceProvider::class);
  
  - [Ylpay](https://github.com/hyperbolaa/Ylpay)   基于laravel5的POS通支付
  - [Unionpay](https://github.com/hyperbolaa/Unionpay)  基于laravel5的银联支付
+ - [Wechatpay](https://github.com/hyperbolaa/Wechatpay)  基于laravel5的微信支付
  - [Alisms](https://github.com/hyperbolaa/Alisms)  基于laravel5的阿里云短信
