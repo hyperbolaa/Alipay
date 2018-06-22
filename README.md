@@ -174,7 +174,7 @@ $app->register(Hyperbolaa\Alipay\AlipayServiceProvider::class);
 	}
 ```
 ## 备注
-(私钥公钥)[https://docs.open.alipay.com/291/106097/]
+[私钥公钥](https://docs.open.alipay.com/291/106097/)
 
 ## 联系&打赏 ##
 
