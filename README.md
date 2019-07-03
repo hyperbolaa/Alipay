@@ -185,12 +185,6 @@ $app->register(Hyperbolaa\Alipay\AlipayServiceProvider::class);
 也希望更多朋友可用提供代码支持。欢迎交流与打赏。
 
 **加入QQ群**：60973229
-
-**不错，我要鼓励一下**
-
-![微信](http://onzbviqx3.bkt.clouddn.com/hyperbolaa_wechat.JPG?imageView2/2/w/200/h/300)
-![支付宝](http://onzbviqx3.bkt.clouddn.com/hyperbolaa_alipay.JPG?imageView2/2/w/220/h/260)
- 
  
  ## Related
  
